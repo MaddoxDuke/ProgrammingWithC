@@ -1,3 +1,7 @@
+//Maddox Duke
+//COSC3355
+//Date: 4/16/2025
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
